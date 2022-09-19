@@ -5,6 +5,7 @@
     🔸 Atualmente eu amo JavaScript<br>
     🔸 Pretendo aprender TypeScript<br>
     🔸 Gostaria de trabalhar em projetos de análise de dados e/ou automação.<br>
+    🔸 Também tenho interesse em desenvolvimento web, front-end ou back-end<br>
 </p>
 
 ## 📌 Um pouco sobre mim
