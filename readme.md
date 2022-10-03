@@ -3,7 +3,6 @@
 <p>
     🔸 My name is João Vitor Ribeiro<br>
     🔸 I'm in love with NodeJS<br>
-    🔸 On my way to TypeScript<br>
     🔸 I'm interested in Data science and Web development<br>
 </p>
 
