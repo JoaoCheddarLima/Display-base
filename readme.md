@@ -2,7 +2,7 @@
 
 <p>
     📌 My name is João Vitor<br>
-     ❗❗ I'm interested in Data science and Web development
+     ❗❗ I'm interested in Web development
 	
     🎯 Current working with DiscordJS bot development
     🤍 Love NodeJS 
