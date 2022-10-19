@@ -2,7 +2,7 @@
 
 <p>
     📌 My name is João Vitor<br>
-     ❗❗ I'm interested in Web development and back-end develpoment
+     ❗❗ I'm interested in FullStack development
 	
     🎯 Current working with Discord API -> DiscordJS bot development
     🤍 Love NodeJS 
