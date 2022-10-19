@@ -1,6 +1,6 @@
 ## 👋 Yo! I'm João, FullStack developer.
 - 🔎 Studying Vue
-- 💻 Work for food
+- 💻 Love coding & stuff
 - 🎮 Love gaming
 <p>
 	
