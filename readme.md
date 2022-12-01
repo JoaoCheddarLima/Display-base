@@ -20,8 +20,8 @@
 
 ---
 
- <div style="display: inline_block" align="center">
-  <p style="text-align: center;">
+ <div style="display: inline_block" align="left">
+  <p style="text-align: left;">
   
 ### Stacks
 ![VueJS Badge](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=42b883)
