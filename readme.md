@@ -4,6 +4,7 @@
 </p>
 <!-- Took from https://github.com/insolitum/insolitum -->
 	
+<div align="center">
 	
 <div align="center" width="fit-content">
 	
