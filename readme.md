@@ -1,5 +1,8 @@
 <div align="center">
 
+<h3>Visitors<h3/>
+<img src="https://profile-counter.glitch.me/%7Bjvrl18%7D/count.svg">
+	
 [![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+a+Fullstack+developer.)](https://git.io/typing-svg)
 	
 <div align="center" width="fit-content">
