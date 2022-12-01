@@ -20,10 +20,11 @@
 
 ---
 
- <div style="display: inline_block" align="left">
-  <p style="text-align: left;">
+ <div style="display: inline_block" align="center">
+  <p style="text-align: center;">
   
 ### Stacks
+
 ![VueJS Badge](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=42b883)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%424242)
