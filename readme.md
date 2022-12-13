@@ -8,7 +8,7 @@
 	
 <div align="center" width="fit-content">
 	
-[![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+a+Fullstack+developer.)](https://git.io/typing-svg)	
+[![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+a+developer.)](https://git.io/typing-svg)	
 
 <a href="https://discord.com/users/429771320964939787">
 <img src="https://lanyard.cnrad.dev/api/429771320964939787" alt="Discord"/>
@@ -32,11 +32,11 @@
   
 ### Stacks
 
-![VueJS Badge](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=42b883)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%424242)
+<!-- ![VueJS Badge](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vue.js&logoColor=42b883)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%424242) -->
+<!-- ![Express Badge](https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black) -->
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-0?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Express Badge](https://img.shields.io/badge/-Express.js-green?style=for-the-badge&logo=Express&logoColor=black)
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
