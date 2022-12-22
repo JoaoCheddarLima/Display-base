@@ -8,7 +8,7 @@
 	
 <div align="center" width="fit-content">
 	
-[![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+a+developer.)](https://git.io/typing-svg)	
+[![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+a+bot+developer.)](https://git.io/typing-svg)	
 
 <a href="https://discord.com/users/429771320964939787">
 <img src="https://lanyard.cnrad.dev/api/429771320964939787" alt="Discord"/>
