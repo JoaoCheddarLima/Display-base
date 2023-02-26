@@ -11,7 +11,7 @@
 [![Welcome message](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+João+a+bot+developer.)](https://git.io/typing-svg)	
 
 <a href="https://discord.com/users/429771320964939787">
-<img src="https://lanyard.cnrad.dev/api/429771320964939787" alt="Discord"/>
+<img src="https://lanyard.cnrad.dev/api/272371726329970688" alt="Discord"/>
 </div>
 
 <h5 align="center" width="fit-content">
@@ -19,7 +19,7 @@
 🤍 Love NodeJS 
 </h5>
 	
-<a href="https://discord.com/users/429771320964939787" target="_blank">
+<a href="https://discord.com/users/272371726329970688" target="_blank">
 <img alt="Link para o discord" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 	
@@ -73,7 +73,7 @@
   <a href="mailto:joaovitor_rlima@hotmail.com" target="_blank">
     <img alt="Link para o Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/429771320964939787" target="_blank">
+  <a href="https://discord.com/users/272371726329970688" target="_blank">
     <img alt="Link para o discord" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
