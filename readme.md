@@ -58,7 +58,9 @@
 <br>
 	
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JVRL18&layout=compact&langs_count=8"/>
+
+[![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04.svg?style=for-the-badge)](https://wakatime.com/@c7a5e8d6-0c47-451a-affe-b7735e691e04)
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JVRL18&layout=compact&langs_count=8"/> -->
 </div>
 
 ---
