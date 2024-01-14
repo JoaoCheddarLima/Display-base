@@ -89,9 +89,6 @@
   <img src="https://lanyard.cnrad.dev/api/272371726329970688">
 
   <h2>Contact</h2>
-  <a href="mailto:joaovitor_rlima@hotmail.com" target="_blank">
-    <img alt="Link para o Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://discord.com/users/272371726329970688" target="_blank">
     <img alt="Link para o discord" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
