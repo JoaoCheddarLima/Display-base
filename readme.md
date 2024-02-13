@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JayJayTech&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jvrl18&layout=compact&langs_count=8"/>
 
 </div>
 
