@@ -2,7 +2,7 @@
 
 <div align="center">
 <section>
-  <img src="https://profile-counter.glitch.me/%7BJayJayTech%7D/count.svg" />
+  <img src="https://profile-counter.glitch.me/%7BJay-Frontera%7D/count.svg" />
 </section>
 
 > _There's no such thing as "impossible" when it comes to development._
@@ -70,9 +70,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/JayJayTech">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayJayTech&layout=compact&langs_count=7&theme=dark"/>
- <img src="https://streak-stats.demolab.com?user=JayJayTech&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <a href="https://github.com/Jay-Frontera">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Frontera&layout=compact&langs_count=7&theme=dark"/>
+ <img src="https://streak-stats.demolab.com?user=Jay-Frontera&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  </a>
 </div>
 
