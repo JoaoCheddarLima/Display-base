@@ -4,11 +4,12 @@
  </a>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04.svg?style=for-the-badge)](https://wakatime.com/@c7a5e8d6-0c47-451a-affe-b7735e691e04)
+
 #
 <div style="display: flex; justify-content: center" align="center">
 
 <section style="margin-right: 10px;">
-  <h2>Contact</h2>
   <a href="https://discord.com/users/272371726329970688" target="_blank">
     <img alt="Link para o discord" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
