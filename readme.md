@@ -8,9 +8,6 @@
 <div style="display: flex; justify-content: center" align="center">
 
 <section style="margin-right: 10px;">
-
-  <img src="https://lanyard.cnrad.dev/api/272371726329970688">
-
   <h2>Contact</h2>
   <a href="https://discord.com/users/272371726329970688" target="_blank">
     <img alt="Link para o discord" src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"/>
