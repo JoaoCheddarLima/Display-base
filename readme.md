@@ -11,11 +11,6 @@
  </a>
 </div>
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jvrl18&layout=compact&langs_count=8"/>
-
-</div>
-
 #
 <div style="display: flex; justify-content: center" align="center">
 
