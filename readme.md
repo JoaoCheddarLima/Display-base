@@ -2,9 +2,11 @@
   <a href="https://github.com/Jay-Frontera">
  <img src="https://streak-stats.demolab.com?user=Jay-Frontera&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  </a>
+  
+[![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04.svg?style=for-the-badge)](https://wakatime.com/@c7a5e8d6-0c47-451a-affe-b7735e691e04)
+
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04.svg?style=for-the-badge)](https://wakatime.com/@c7a5e8d6-0c47-451a-affe-b7735e691e04)
 
 #
 <div style="display: flex; justify-content: center" align="center">
