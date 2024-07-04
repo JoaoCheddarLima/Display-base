@@ -1,12 +1,5 @@
-### Nerdy timing
-
-[![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04.svg?style=for-the-badge)](https://wakatime.com/@c7a5e8d6-0c47-451a-affe-b7735e691e04)
-
-#
-
 <div align="center">
   <a href="https://github.com/Jay-Frontera">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Frontera&layout=compact&langs_count=7&theme=dark"/>
  <img src="https://streak-stats.demolab.com?user=Jay-Frontera&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
  </a>
 </div>
