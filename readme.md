@@ -19,7 +19,7 @@
   </a>
 
    <a href="[https://t.me/JAYBOT_0x](https://www.linkedin.com/in/joao-vitor-ribeiro-de-lima/)" target="_blank">
-        <img alt="Link to linkedin" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=telegram&logoColor=black"/>
+        <img alt="Link to linkedin" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=black"/>
    </a>
 </section>
 
