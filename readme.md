@@ -6,6 +6,7 @@
 🛵 Currently studying at [Harvard CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) Program.  
 🧑‍💻 Team work is the dream work.  
 📦 Creates open-source libs 4fun.  
+🔗 Discord: jayfrontera
 
 🔗 You can see a bit of my coding stats down below.  
 
