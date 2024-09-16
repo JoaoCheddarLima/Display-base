@@ -2,6 +2,8 @@
 
 [![linktree](https://img.shields.io/badge/Contact%20ME-white?style=for-the-badge&logo=Linktree&logoColor=black)](https://linktr.ee/jay.frontera)
 
+## Actively working in this project --> [Brazil clicker](https://github.com/Jay-Frontera/brazil-clicker)
+
 👋 **About me.**  
 🛵 Currently studying at [Harvard CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) Program.  
 🧑‍💻 Team work is the dream work.  
