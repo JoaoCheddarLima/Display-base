@@ -2,7 +2,7 @@
 
 [![linktree](https://img.shields.io/badge/Contact%20ME-white?style=for-the-badge&logo=Linktree&logoColor=black)](https://linktr.ee/jay.frontera)
 
-## Actively working in this project --> [Brazil clicker](https://github.com/Jay-Frontera/brazil-clicker)
+## Actively working in this project --> [Brazil clicker](https://github.com/JoaoCheddarLima/brazil-clicker)
 
 👋 **About me.**  
 🛵 Currently studying at [Harvard CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) Program.  
@@ -15,7 +15,6 @@
 ![codingSatus](https://github-readme-stats.vercel.app/api/wakatime?username=jvrl18&layout=compact&langs_count=8)
   
 [![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04.svg?style=for-the-badge)](https://wakatime.com/@c7a5e8d6-0c47-451a-affe-b7735e691e04)
-[![linktree](https://img.shields.io/badge/Contact%20ME-007EC6?style=for-the-badge&logo=Linktree)](https://linktr.ee/jay.frontera)  
 
 
 <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
@@ -32,7 +31,5 @@
 <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose">
 <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitbook/gitbook-original.svg" alt="gitbook">
 <img width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma">
-
-[![linktree](https://img.shields.io/badge/Contact%20ME-white?style=for-the-badge&logo=Linktree&logoColor)](https://linktr.ee/jay.frontera)
 
 </div>
